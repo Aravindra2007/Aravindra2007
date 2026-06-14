@@ -62,9 +62,11 @@ A Python-powered desktop voice assistant inspired by Iron Man's JARVIS.
 
 | Repository | Language | Description |
 |---|---|---|
-| [C--Projects](https://github.com/Aravindra2007/C--Projects) | C | Collection of C programs and projects |
-| [python-projects](https://github.com/Aravindra2007/python-projects) | Python | Python mini-projects and experiments |
-| [c-practice](https://github.com/Aravindra2007/c-practice) | C | C language practice exercises |
+| [PLANT_AI](https://github.com/Aravindra2007/PLANT_AI) | python | plants and disese detected through open cv |
+| [SmartParkingManagementSystem](https://github.com/Aravindra2007/SmartParkingManagementSystem) |java| it is js interface for vechile parking |
+| [Conservation_App_2.o](https://github.com/Aravindra2007/Conservation_App_2.o) |python| it upgradation of energy and water conservation |
+| [short_python](https://github.com/Aravindra2007/short_python) | Python | Python modules and practical examples|
+| [c--Practice](https://github.com/Aravindra2007/c--Practice) | C | C language practice exercises |
 | [java](https://github.com/Aravindra2007/java) | Java | Java programs and learning projects |
 
 ---
@@ -91,6 +93,7 @@ A Python-powered desktop voice assistant inspired by Iron Man's JARVIS.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aravindra2007-181717?style=for-the-badge&logo=github)](https://github.com/Aravindra2007)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aravindkuruva911@gmail.com)
 
 </div>
 
