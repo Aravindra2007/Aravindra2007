@@ -65,7 +65,7 @@ A Python-powered desktop voice assistant inspired by Iron Man's JARVIS.
 | [PLANT_AI](https://github.com/Aravindra2007/PLANT_AI) | python | plants and disese detected through open cv |
 | [SmartParkingManagementSystem](https://github.com/Aravindra2007/SmartParkingManagementSystem) |java| it is js interface for vechile parking |
 | [Conservation_App_2.o](https://github.com/Aravindra2007/Conservation_App_2.o) |python| it upgradation of energy and water conservation |
-| [short_python](https://github.com/Aravindra2007/short_python) | Python | Python modules and practical examples|
+| [python](https://github.com/Aravindra2007/python) | Python | Python modules and practical examples|
 | [c--Practice](https://github.com/Aravindra2007/c--Practice) | C | C language practice exercises |
 | [java](https://github.com/Aravindra2007/java) | Java | Java programs and learning projects |
 
