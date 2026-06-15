@@ -93,7 +93,7 @@ A Python-powered desktop voice assistant inspired by Iron Man's JARVIS.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aravindra2007-181717?style=for-the-badge&logo=github)](https://github.com/Aravindra2007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aravindkuruva911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindkuruva911@gmail.com)
 
 </div>
 
