@@ -17,13 +17,18 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -63,20 +68,35 @@ A personalized desktop AI assistant built in Python, designed to run natively on
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Aravindra2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindra2007&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aravindra2007&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Aravindra2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindra2007&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aravindra2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-Aravindra2007-181717?style=for-the-badge&logo=github)](https://github.com/Aravindra2007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindkuruva911@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
 
 ⭐ **If you like my projects, consider starring them!** ⭐
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Aravindra2007&color=6E40C9&style=flat-square&label=Profile+Views)
+
+</div>
