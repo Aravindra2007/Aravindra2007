@@ -1,8 +1,11 @@
 # Hi there, I'm Aravind 👋
+<div align="center">
+<h3>A developer who loves building things with Python, C, and Java</h3>
 
-### A developer who loves building things with Python, C, and Java
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Voice+Assistants+%F0%9F%8E%99%EF%B8%8F;Python+%7C+C+%7C+Java+Developer;Open+Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%8E%99%EF%B8%8F;Python+%7C+C+%7C+Java+Developer;Open+Source+Enthusiast)
+
+</div>
 
 ---
 
