@@ -1,4 +1,4 @@
-# Hi there, I'm Aravind 👋
+# Hi there, I'm Aravind Kuruva👋
 <div align="center">
 <h3>A developer who loves building things with Python, C, and Java</h3>
 
